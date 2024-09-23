@@ -19,6 +19,9 @@ Beyond coding, I love to **share knowledge** and grow within the developer commu
     <a href="https://github.com/jpbgomes?tab=followers">
         <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/jpbgomes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
+    
+- **GitHub Views:**  
+    [![](https://komarev.com/ghpvc/?username=jpbgomes&color=blue&style=for-the-badge)](https://github.com/jpbgomes)
 - **Total Stars on My Repositories:**  
     <a href="https://github.com/jpbgomes?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jpbgomes?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
