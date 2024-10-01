@@ -27,9 +27,10 @@ Beyond coding, I love to **share knowledge** and grow within the developer commu
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jpbgomes?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
 
-## 🎥 YouTube Channel
+<!-- ## 🎥 YouTube Channel
 
 I also run a **YouTube channel** where I share my journey as a freelancer, along with tutorials, project walkthroughs, and developer tips. Subscribe to stay updated with my latest content:
 
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCG6r5LefPIBX6GxDrKFZ6rg?style=for-the-badge)](https://www.youtube.com/c/jpbgomes?sub_confirmation=1)
-[![YouTube Views](https://img.shields.io/youtube/channel/views/UCG6r5LefPIBX6GxDrKFZ6rg?style=for-the-badge)](https://www.youtube.com/c/jpbgomes?sub_confirmation=1)
+[![YouTube Views](https://img.shields.io/youtube/channel/views/UCG6r5LefPIBX6GxDrKFZ6rg?style=for-the-badge)](https://www.youtube.com/c/jpbgomes?sub_confirmation=1) -->
+
